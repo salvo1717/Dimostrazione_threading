@@ -36,7 +36,10 @@ Per eseguire questo progetto sul tuo computer, segui questi passaggi.
     ```
 
 2.  **Installa le dipendenze**
-    Il progetto richiede la libreria `requests`. Importala attraverso il comando 'python -m pip install requests'.
+    Il progetto richiede la libreria `requests`. Importala attraverso il comando:
+    ```bash
+    'python -m pip install requests'
+    ``` 
 
 ### Utilizzo
 
