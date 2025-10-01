@@ -39,7 +39,6 @@ Per eseguire questo progetto sul tuo computer, segui questi passaggi.
     Il progetto richiede la libreria `requests`. Importala attraverso il comando:
     ```bash
     python -m pip install requests
-    ``` 
 
 ### Utilizzo
 
